@@ -1,4 +1,3 @@
-# FastAPI Project
 
 In oder to play the Twitter-FASTAPI, you must run then following commands:
 git clone
