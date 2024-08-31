@@ -1,7 +1,7 @@
 # FastAPI Project
 
 In oder to play the Twitter-FASTAPI, you must run then following commands:
-git clone
+git clone https://github.com/edenfloRock/twitter-api-fastapi.git
 
 python -m venv venv
 
